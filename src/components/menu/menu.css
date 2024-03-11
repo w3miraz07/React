@@ -1,0 +1,12 @@
+.menu{
+    padding: 20px 0;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    padding: 0 20px;
+}
+.menu ul{
+    text-align: center;
+}

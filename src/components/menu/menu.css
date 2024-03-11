@@ -1,5 +1,8 @@
 .menu{
     padding: 20px 0;
+    position: absolute;
+    width: 100%;
+    z-index: 999;
 }
 .menu ul li{
     display: inline-block;
